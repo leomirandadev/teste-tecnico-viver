@@ -16,3 +16,5 @@
 
 ## Entrega:
 Será levado em consideração o tempo de desenvolvimento, qualidade do software e domínio da linguagem, bem como a entrega dos diferenciais.
+
+Enviar para: administrativo@planoviver.com
