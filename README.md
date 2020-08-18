@@ -13,9 +13,10 @@
 - Autenticação da API com JWT;
 - Utilização de Docker;
 - Frontend em React.js;
+
 **Observação:** Ninguém será desclassificado por utilizar outras técnologias, porém a utilização das utilizadas a cima contaram pontos a mais para o projeto criado.
 
 ## Entrega:
 Será levado em consideração o tempo de desenvolvimento, qualidade do software e domínio da linguagem, bem como a entrega dos diferenciais.
 
-Enviar o link do projeto, juntamente com a pretenção salárial e a responta para a pergunta: Por que eu mereço fazer parte do *Time Viver*?, para o e-mail administrativo@planoviver.com
+Enviar o link do projeto, juntamente com a pretenção salárial e a responta para a pergunta: Por que eu mereço fazer parte do **Time Viver**?, para o e-mail administrativo@planoviver.com
