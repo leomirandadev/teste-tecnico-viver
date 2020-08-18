@@ -13,6 +13,7 @@
 - Autenticação da API com JWT;
 - Utilização de Docker;
 - Frontend em React.js;
+**Observação:** Ninguém será desclassificado por utilizar outras técnologias, porém a utilização das utilizadas a cima contaram pontos a mais para o projeto criado.
 
 ## Entrega:
 Será levado em consideração o tempo de desenvolvimento, qualidade do software e domínio da linguagem, bem como a entrega dos diferenciais.
